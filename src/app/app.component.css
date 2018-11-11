@@ -1,0 +1,28 @@
+summary{
+    cursor: pointer;
+  }
+  
+  /*Classes*/
+  
+  .hackday-font-black{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+  
+  .hackday-font-description{
+    color: #88929a;
+  }
+
+  .timer-font{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    font-size: 72px;
+    color: black;
+  }
+
+  .unselectable{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
