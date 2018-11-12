@@ -27,9 +27,13 @@ summary{
     user-select: none;
   }
 
-  .challengebox {
+  .challengebox{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #ffffff;
+  }
+
+  .company-logo{
+    width: 100%;
   }
 
   /*Ids*/
