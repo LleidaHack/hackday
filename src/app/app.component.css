@@ -13,6 +13,10 @@ summary{
     color: #88929a;
   }
 
+  .timer-white-font {
+    color: white;
+  }
+
   .timer-font{
     font-family: 'Orbitron', sans-serif;
     font-weight: bold;
